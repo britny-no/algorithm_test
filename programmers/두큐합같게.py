@@ -1,3 +1,4 @@
+# 그리드 알고리즘
 from collections import deque
 
 def sum_len(arr):
