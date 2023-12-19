@@ -1,7 +1,6 @@
 import re
 
 def check(s):
-    text = '[1](){3}()'
     l = len(s) -1 
     c = 0
 
